@@ -1,0 +1,6 @@
+# Ignore some directories
+bin
+docs
+mariadb
+sounds
+swagger
